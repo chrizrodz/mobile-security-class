@@ -1,0 +1,2 @@
+ABC
+AB; touch bad.txt;
