@@ -1,2 +1,1 @@
-ABC
-AB; touch bad.txt;
+a; echo "hello2" > test2.html
